@@ -1,18 +1,21 @@
 # Python for Finance Cookbook 2nd Edition - Code Repository
 
 **Python For Finance Cookbook, 2nd Edition**  
-published: January 31st, 2020
 
-Paperback: 432 pages  
+Publication date: December 30th, 2022
+
+Paperback: 740 pages  
 Publisher: Packt Publishing  
 Language: English
 
-<!-- [<img src="./.img/book_cover.png" width="248">]() -->
+[<img src="./.img/book_cover.png" width="248">]()
 
 ## Links
 
-- [Amazon Page]()
-- [Packt Page]()
+- [Amazon Page](https://amzn.to/3YYJPG6)
+- [Packt Page](https://www.packtpub.com/product/python-for-finance-cookbook-second-edition/9781803243191)
+
+--- 
 
 ## Table of Contents
 
@@ -32,13 +35,15 @@ Language: English
 14. Advanced Concepts for ML Projects
 15. Deep Learning in Finance
 
+--- 
+
 ## General comments
 
 * Sometimes when working with the `yfinance` library you can see that the downloaded data differs by a single day. Hence, you might spot that when you execute the same code, the function will download a single day less than what is presented in the book, which will also impact the results of various recipes. Apparently, this is cause by the library not working well with timezones. You can read more about it in [this issue](https://github.com/ranaroussi/yfinance/issues/1036). As this issue might be fixed soon and is only visible in some cases, we decided to describe it here and remove the note when the issue is fixed in the `yfinance` library.
 
-## Quoting 
+--- 
 
-TODO 
+## Quoting 
 
 Eryk Lewinson. *Python For Finance Cookbook, 2nd Edition*. Packt Publishing, 2022.
 
@@ -46,7 +51,7 @@ Eryk Lewinson. *Python For Finance Cookbook, 2nd Edition*. Packt Publishing, 202
     address = {Birmingham, UK},  
     author = {Lewinson, Eryk},  
     edition = {2},  
-    isbn = {XXX},   
+    isbn = {9781803243191},   
     publisher = {Packt Publishing},  
     title = {{Python For Finance Cookbook, 2nd Edition}},  
     year = {2022}  
