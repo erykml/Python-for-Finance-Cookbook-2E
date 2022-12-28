@@ -15,8 +15,6 @@ Language: English
 - [Amazon Page](https://amzn.to/3YYJPG6)
 - [Packt Page](https://www.packtpub.com/product/python-for-finance-cookbook-second-edition/9781803243191)
 
---- 
-
 ## Table of Contents
 
 1. Acquiring Financial Data
@@ -35,13 +33,9 @@ Language: English
 14. Advanced Concepts for ML Projects
 15. Deep Learning in Finance
 
---- 
-
 ## General comments
 
 * Sometimes when working with the `yfinance` library you can see that the downloaded data differs by a single day. Hence, you might spot that when you execute the same code, the function will download a single day less than what is presented in the book, which will also impact the results of various recipes. Apparently, this is cause by the library not working well with timezones. You can read more about it in [this issue](https://github.com/ranaroussi/yfinance/issues/1036). As this issue might be fixed soon and is only visible in some cases, we decided to describe it here and remove the note when the issue is fixed in the `yfinance` library.
-
---- 
 
 ## Quoting 
 
