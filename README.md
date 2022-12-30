@@ -12,7 +12,7 @@ Language: English
 
 ## Links
 
-- [Amazon Page](https://amzn.to/3YYJPG6)
+- [Amazon Page](https://amzn.to/3YUMyA9)
 - [Packt Page](https://www.packtpub.com/product/python-for-finance-cookbook-second-edition/9781803243191)
 
 ## Table of Contents
